@@ -10,7 +10,7 @@ A neon twin-stick shooter across seven worlds, by **Gigantua**.
 
 Questions, bug reports or purchase problems: **[dangi12012@hotmail.com](mailto:dangi12012@hotmail.com)**
 
-Please include your platform (iPhone/iPad, Mac, Apple TV, Android, Fire TV, Windows, Meta Quest, LG TV) and, if you know it, the game version.
+Please include the device you play on and, if you know it, the game version.
 
 ## Common questions
 

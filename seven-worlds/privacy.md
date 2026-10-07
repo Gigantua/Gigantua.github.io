@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Seven Worlds — Privacy Policy
 ---
 
 # Privacy Policy — Seven Worlds: Neon Odyssey

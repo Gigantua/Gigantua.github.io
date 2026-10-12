@@ -18,7 +18,7 @@ Please include the device you play on and, if you know it, the game version.
 Restart the game. Purchases that were paid but not yet delivered are delivered on the next start. If the gold plates still do not appear, write to the address above with the date of the purchase.
 
 **Where is my progress saved?**
-On your device only. The game has no account and no cloud save; uninstalling the game removes its progress.
+On your device. Where your store offers cloud saves for the game, the store also keeps a copy of your progress in your store account; otherwise uninstalling the game removes its progress.
 
 **The game crashed.**
 The game writes a local `crash.log` in its cache folder. It is never sent anywhere; you can attach it to an e-mail if you want to help fix the problem.

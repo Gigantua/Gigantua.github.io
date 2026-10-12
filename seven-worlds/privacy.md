@@ -5,13 +5,13 @@ title: Seven Worlds — Privacy Policy
 # Privacy Policy — Seven Worlds: Neon Odyssey
 
 **Developer:** Gigantua  
-**Effective date:** 2026-09-29
+**Effective date:** 2026-10-12
 
 ## Summary
 
 Seven Worlds: Neon Odyssey does **not** collect, store, share or sell any personal data.
-The game has no user accounts, no analytics, no advertising SDKs, no crash reporting service and no server of its own.
-Everything the game saves stays on your device.
+The game has no user accounts of its own, no analytics, no advertising SDKs, no crash reporting service and no server of its own.
+Everything the game saves stays on your device. On Steam and the Epic Games Store the game uses the store's own account services for achievements, purchases and the store overlay (see below).
 
 ## Data stored on your device only
 
@@ -36,7 +36,9 @@ Optional in-app purchases are processed entirely by the store you installed the 
 - **Microsoft Store** — Microsoft Store services
 - **Apple App Store** — StoreKit in-app purchase
 - **Meta Horizon Store (Meta Quest)** — Meta in-app purchases
-- **Epic Games Store, LG TV and the direct Windows download** — PayPal (payment is completed on PayPal's website in your browser)
+- **Steam** — Steam in-game purchases (Steam Inventory)
+- **Epic Games Store** — Epic Games Store in-game purchases (checkout in the Epic overlay)
+- **LG TV and the direct Windows download** — PayPal (payment is completed on PayPal's website in your browser)
 
 The store or payment provider handles your payment details under its own privacy policy. The game only receives confirmation that a purchase was made (a purchase/entitlement status) so it can unlock the purchased content; it never receives your payment information.
 
@@ -46,6 +48,18 @@ The store or payment provider handles your payment details under its own privacy
 - Apple: https://www.apple.com/legal/privacy/
 - Meta: https://www.meta.com/legal/privacy-policy/
 - PayPal: https://www.paypal.com/legalhub/privacy-full
+- Valve (Steam): https://store.steampowered.com/privacy_agreement/
+- Epic Games: https://www.epicgames.com/site/privacypolicy
+
+## Store accounts, achievements and overlays (Steam, Epic Games Store)
+
+The Steam and Epic Games Store editions sign you in with the account you started the game with, through that store's own services (Steamworks; Epic Online Services and Epic Account Services). This is used only to unlock the game's achievements on your store account, to sell and deliver in-game items, and to show the store's overlay inside the game.
+
+On the Epic Games Store, when you first start the game, Epic asks you to allow the game access to your basic profile (account ID and display name), your online presence and your friends list. The game itself does not read, store or send your friends list or presence: these permissions are what the Epic Social Overlay needs to show your friends, achievements and notifications inside the game. You can withdraw the permission at any time in your Epic account settings (Apps and accounts).
+
+On Steam, Steam Cloud also keeps a copy of your game progress and high scores (one save file) in your Steam account, so they follow you to another computer. Your settings stay on each device.
+
+The store keeps your achievements and purchases under its own privacy policy (links above). Nothing of it is sent to us.
 
 ## Network permission
 
